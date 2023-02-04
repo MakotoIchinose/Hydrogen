@@ -26,9 +26,9 @@ P : Pause
 # Contributors
 **Team Hydrogen** are:
 
-[MakotoIchinose](https://github.com/MakotoIchinose) - Code, idea, VFX, audio
-[Rxdsavt](https://github.com/Rxdsavt) - Artwork
-[Hanif012](https://github.com/Hanif012) - Level design, audio sourcing
+- [MakotoIchinose](https://github.com/MakotoIchinose) - Code, idea, VFX, audio
+- [Rxdsavt](https://github.com/Rxdsavt) - Artwork
+- [Hanif012](https://github.com/Hanif012) - Level design, audio sourcing
 
 # Sourced assets
 - [Kenney](https://www.kenney.nl)
