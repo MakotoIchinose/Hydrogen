@@ -12,14 +12,20 @@ This project has been developed in less than 48 hours, excluding rests. Some cut
 # Controls
 
 Up / W : Move root up
+
 Down / S : Move root down
+
 Left / A : Move root left
+
 Right / D : Move root right
+
 R : Reset level
+
 P : Pause
 
 # Contributors
 **Team Hydrogen** are:
+
 [MakotoIchinose](https://github.com/MakotoIchinose) - Code, idea, VFX, audio
 [Rxdsavt](https://github.com/Rxdsavt) - Artwork
 [Hanif012](https://github.com/Hanif012) - Level design, audio sourcing
